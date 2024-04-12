@@ -1,4 +1,4 @@
-<h1 align=center>Guess The Number 🤔</h1>
+<h1 align=center>Guess The Number 🤔☕</h1>
 
 <p align=justify>É necessário que o algoritmo gere um número aleatório para ser adivinhado pelo usuário, para isso, me utilizei da biblioteca <strong>random</strong>, gerando um número aleatório entre 0 e 100 e armazenando no gerador <strong>generator</strong>.</p>
 
