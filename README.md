@@ -1,4 +1,4 @@
-<h1 align=center>Guess The Number 🤔☕</h1>
+<h1 align=center>Guess The Number 🤔☕</br><img src="https://github.com/aleen42/badges/blob/docs/src/cli.svg"><img src="https://badges.aleen42.com/src/java.svg"></h1>
 
 <p align=justify>It is necessary for the algorithm to generate a random number to be guessed by the user. To do this, I used the random library, generating a random number between 0 and 100 and storing it in the generator <strong>generator</strong>.</p>
 
